@@ -4,4 +4,5 @@ int main()
 {
 	char a[10]="awdSADw45";
 	con(a);
+	return 0;
 }
